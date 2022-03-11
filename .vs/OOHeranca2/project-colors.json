@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "be5ababb-722f-4ca5-b25d-24917803496d": {
+      "ProjectGuid": "be5ababb-722f-4ca5-b25d-24917803496d",
+      "DisplayName": "OOHeranca2",
+      "ColorIndex": 0
+    },
+    "65988174-623f-46de-865e-6a8c36fbcaa3": {
+      "ProjectGuid": "65988174-623f-46de-865e-6a8c36fbcaa3",
+      "DisplayName": "POO.App",
+      "ColorIndex": 1
+    },
+    "c208ee5c-8981-4116-8cfe-57cc3330dcf6": {
+      "ProjectGuid": "c208ee5c-8981-4116-8cfe-57cc3330dcf6",
+      "DisplayName": "POO.App.API",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

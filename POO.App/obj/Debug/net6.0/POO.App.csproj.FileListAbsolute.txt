@@ -1,0 +1,15 @@
+C:\Users\guilh\Documents\C# .NET\OOHeranca2\POO.App\bin\Debug\net6.0\POO.App.exe
+C:\Users\guilh\Documents\C# .NET\OOHeranca2\POO.App\bin\Debug\net6.0\POO.App.deps.json
+C:\Users\guilh\Documents\C# .NET\OOHeranca2\POO.App\bin\Debug\net6.0\POO.App.runtimeconfig.json
+C:\Users\guilh\Documents\C# .NET\OOHeranca2\POO.App\bin\Debug\net6.0\POO.App.dll
+C:\Users\guilh\Documents\C# .NET\OOHeranca2\POO.App\bin\Debug\net6.0\ref\POO.App.dll
+C:\Users\guilh\Documents\C# .NET\OOHeranca2\POO.App\bin\Debug\net6.0\POO.App.pdb
+C:\Users\guilh\Documents\C# .NET\OOHeranca2\POO.App\obj\Debug\net6.0\POO.App.csproj.AssemblyReference.cache
+C:\Users\guilh\Documents\C# .NET\OOHeranca2\POO.App\obj\Debug\net6.0\POO.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Documents\C# .NET\OOHeranca2\POO.App\obj\Debug\net6.0\POO.App.AssemblyInfoInputs.cache
+C:\Users\guilh\Documents\C# .NET\OOHeranca2\POO.App\obj\Debug\net6.0\POO.App.AssemblyInfo.cs
+C:\Users\guilh\Documents\C# .NET\OOHeranca2\POO.App\obj\Debug\net6.0\POO.App.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\C# .NET\OOHeranca2\POO.App\obj\Debug\net6.0\POO.App.dll
+C:\Users\guilh\Documents\C# .NET\OOHeranca2\POO.App\obj\Debug\net6.0\ref\POO.App.dll
+C:\Users\guilh\Documents\C# .NET\OOHeranca2\POO.App\obj\Debug\net6.0\POO.App.pdb
+C:\Users\guilh\Documents\C# .NET\OOHeranca2\POO.App\obj\Debug\net6.0\POO.App.genruntimeconfig.cache
